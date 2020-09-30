@@ -1,6 +1,6 @@
 # Tera-DAHGuide
 <strong>How to install</strong></br>
-create a new folder with whatever name u want in your tera toolbox mods ({YOUR_TERA_TOOLBOX_PATH}\mods\DAHGuide)</br>
+create a new folder with whatever name you want in your tera toolbox mods ({YOUR_TERA_TOOLBOX_PATH}\mods\DAHGuide)</br>
 copy the the "index.js" in the newly created folder</br>
 
 <strong>Commands</strong></br>
